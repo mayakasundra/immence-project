@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  display: flex;
+}
+
+.receipeImage {
+  height: 250px;
+  border-radius: 5px;
+}
